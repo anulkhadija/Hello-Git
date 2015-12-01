@@ -51,7 +51,6 @@ DirectoryIndex index.php index.html index.htm
     ExpiresActive Off
   </FilesMatch>
 </IfModule>
-
 # Various rewrite rules.
 <IfModule mod_rewrite.c>
   RewriteEngine on
